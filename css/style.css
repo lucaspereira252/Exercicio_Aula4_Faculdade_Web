@@ -1,0 +1,44 @@
+
+
+
+
+
+body{
+    max-width: 98%;
+    border: 1px solid ;
+    border-bottom: none;
+    border-color: #d3d3d3;
+}
+
+
+
+hr{
+    width: 95%;
+    color: rgb(95, 95, 143);
+}
+
+h1{
+    margin-left: 20px;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+
+
+
+div{
+    display: inline-block;
+    align-items: center;
+}
+
+#texto{
+    margin-left: 20px;
+}
+
+#imagem{
+    
+    float: right;
+    margin-right: 20px;
+    width: 50%;
+    max-width: 100%;
+}
